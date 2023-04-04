@@ -1,0 +1,24 @@
+{
+  "contacts": [
+    {
+      "name": "Mouli VJ is the Best in the World !",
+      "email": "vj@gmail.com",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "John wick",
+      "email": "john@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Don Leee",
+      "email": "Don@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Leon",
+      "email": "leon@gmail.com"
+    }
+  ]
+}
